@@ -1,0 +1,23 @@
+body {
+    background-color: lightpink;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Arial Black";
+    color: #FF1493;
+}
+
+h2 {
+    font-family: Verdana;
+    color: darkred;
+}
+
+p {
+    font-family: Georgia;
+    font-size: 18px;
+}
+
+img {
+    border: 5px solid white;
+}
